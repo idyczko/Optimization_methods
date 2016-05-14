@@ -1,0 +1,48 @@
+GLPSOL: GLPK LP/MIP Solver, v4.52
+Parameter(s) specified in the command line:
+ --model set2problem1.mod --data set2problem1.data
+Reading model section from set2problem1.mod...
+set2problem1.mod:23: warning: unexpected end of file; missing end statement inserted
+23 lines were read
+Reading data section from set2problem1.data...
+15 lines were read
+Generating fetch_time...
+Generating cover_every_property...
+Model has been successfully generated
+GLPK Integer Optimizer, v4.52
+6 rows, 7 columns, 18 non-zeros
+7 integer variables, all of which are binary
+Preprocessing...
+3 hidden packing inequaliti(es) were detected
+4 rows, 6 columns, 10 non-zeros
+6 integer variables, all of which are binary
+Scaling...
+ A: min|aij| =  1.000e+00  max|aij| =  1.000e+00  ratio =  1.000e+00
+Problem data seem to be well scaled
+Constructing initial basis...
+Size of triangular part is 4
+Solving LP relaxation...
+GLPK Simplex Optimizer, v4.52
+4 rows, 6 columns, 10 non-zeros
+      0: obj =   3.200000000e+01  infeas =  4.000e+00 (0)
+*     4: obj =   4.700000000e+01  infeas =  0.000e+00 (0)
+*     6: obj =   4.700000000e+01  infeas =  0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+Integer optimization begins...
++     6: mip =     not found yet >=              -inf        (1; 0)
++     6: >>>>>   4.700000000e+01 >=   4.700000000e+01   0.0% (1; 0)
++     6: mip =   4.700000000e+01 >=     tree is empty   0.0% (0; 1)
+INTEGER OPTIMAL SOLUTION FOUND
+Time used:   0.0 secs
+Memory used: 0.1 Mb (136255 bytes)
+Display statement at line 22
+x[1].val = 1
+x[2].val = 0
+x[3].val = 1
+x[4].val = 1
+x[5].val = 0
+x[6].val = 0
+x[7].val = 0
+Display statement at line 23
+fetch_time.val = 47
+Model has been successfully processed

@@ -1,0 +1,176 @@
+Problem:    set1problem3
+Rows:       20
+Columns:    14
+Non-zeros:  65
+Status:     OPTIMAL
+Objective:  profit = 2986.886016 (MAXimum)
+
+   No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 profit       B        2986.89                             
+     2 ing1_min_resources
+                    B           6000          2000               
+     3 ing1_max_resources
+                    NU          6000                        6000      0.788132 
+     4 ing2_min_resources
+                    B           5000          3000               
+     5 ing2_max_resources
+                    NU          5000                        5000       1.28813 
+     6 ing3_min_resources
+                    NL          4000          4000                    -2.04564 
+     7 ing3_max_resources
+                    B           4000                        7000 
+     8 ing1_for_productA
+                    B        705.053            -0               
+     9 ing2_for_productA
+                    NL             0            -0                   -0.297203 
+    10 ing3_for_productA
+                    NU             0                          -0       3.04216 
+    11 ing1_for_productB
+                    B        3470.04            -0               
+    12 ing3_for_productB
+                    NU             0                          -0       2.99377 
+    13 leftover_from_ing1_productA
+                    NU             0                          -0      0.127967 
+    14 leftover_from_ing2_productA
+                    NU             0                          -0      0.127967 
+    15 leftover_from_ing3_productA
+                    NU             0                          -0      0.227967 
+    16 leftover_from_ing1_productB
+                    B       -945.006                          -0 
+    17 leftover_from_ing2_productB
+                    B       -811.986                          -0 
+    18 leftover_from_ing3_productB
+                    B       -1882.49                          -0 
+    19 ing1_for_productC
+                    NS             0            -0             =      -2.86016 
+    20 ing2_for_productD
+                    NS             0            -0             =      -3.41162 
+
+   No. Column name  St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 x1           B        1175.09             0               
+     2 x2           B        940.071             0               
+     3 x3           B        235.018             0               
+     4 x4           B        4725.03             0               
+     5 x5           B        4059.93             0               
+     6 x6           B        3764.98             0               
+     7 x7           B        99.8825             0               
+     8 x8           B        117.509             0               
+     9 x9           B        188.014             0               
+    10 x10          B        94.0071             0               
+    11 x11          B              0             0               
+    12 x12          NL             0             0                   -0.473485 
+    13 x13          NL             0             0                   -0.473485 
+    14 x14          NL             0             0                   -0.123485 
+
+Karush-Kuhn-Tucker optimality conditions:
+
+KKT.PE: max.abs.err = 2.84e-14 on row 10
+        max.rel.err = 7.54e-17 on row 14
+        High quality
+
+KKT.PB: max.abs.err = 1.26e-29 on column 11
+        max.rel.err = 1.26e-29 on column 11
+        High quality
+
+KKT.DE: max.abs.err = 4.44e-16 on column 3
+        max.rel.err = 6.61e-17 on column 3
+        High quality
+
+KKT.DB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output
+GLPSOL: GLPK LP/MIP Solver, v4.52
+Parameter(s) specified in the command line:
+ -m set1problem3.mod
+Reading model section from set1problem3.mod...
+set1problem3.mod:85: warning: unexpected end of file; missing end statement inserted
+85 lines were read
+Generating profit...
+Generating ing1_min_resources...
+Generating ing1_max_resources...
+Generating ing2_min_resources...
+Generating ing2_max_resources...
+Generating ing3_min_resources...
+Generating ing3_max_resources...
+Generating ing1_for_productA...
+Generating ing2_for_productA...
+Generating ing3_for_productA...
+Generating ing1_for_productB...
+Generating ing3_for_productB...
+Generating leftover_from_ing1_productA...
+Generating leftover_from_ing2_productA...
+Generating leftover_from_ing3_productA...
+Generating leftover_from_ing1_productB...
+Generating leftover_from_ing2_productB...
+Generating leftover_from_ing3_productB...
+Generating ing1_for_productC...
+Generating ing2_for_productD...
+Model has been successfully generated
+GLPK Simplex Optimizer, v4.52
+20 rows, 14 columns, 65 non-zeros
+Preprocessing...
+19 rows, 14 columns, 51 non-zeros
+Scaling...
+ A: min|aij| =  1.000e-01  max|aij| =  1.000e+00  ratio =  1.000e+01
+Problem data seem to be well scaled
+Constructing initial basis...
+Size of triangular part is 19
+      0: obj =   0.000000000e+00  infeas =  9.000e+03 (0)
+*     9: obj =   8.400000000e+02  infeas =  2.842e-14 (0)
+*    16: obj =   2.986886016e+03  infeas =  1.262e-29 (0)
+OPTIMAL LP SOLUTION FOUND
+Time used:   0.0 secs
+Memory used: 0.1 Mb (151848 bytes)
+Display statement at line 61
+2986.88601645124
+Display statement at line 62
+6000
+Display statement at line 63
+5000
+Display statement at line 64
+4000
+Display statement at line 65
+x1.val = 1175.08813160987
+Display statement at line 66
+x2.val = 940.070505287897
+Display statement at line 67
+x3.val = 235.017626321974
+Display statement at line 68
+x4.val = 4725.02937720329
+Display statement at line 69
+x5.val = 4059.9294947121
+Display statement at line 70
+x6.val = 3764.98237367803
+Display statement at line 71
+x7.val = 99.8824911868391
+Display statement at line 72
+x8.val = 117.508813160987
+Display statement at line 73
+x9.val = 188.014101057579
+Display statement at line 74
+x10.val = 94.0070505287897
+Display statement at line 75
+x11.val = 0
+Display statement at line 76
+x12.val = 0
+Display statement at line 77
+x13.val = 0
+Display statement at line 78
+x14.val = 0
+Display statement at line 79
+0
+Display statement at line 80
+-2.8421709430404e-14
+Display statement at line 81
+0
+Display statement at line 82
+945.005875440658
+Display statement at line 83
+811.985898942421
+Display statement at line 84
+1882.49118683901
+Model has been successfully processed

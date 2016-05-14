@@ -1,0 +1,127 @@
+Problem:    set1problem2
+Rows:       13
+Columns:    12
+Non-zeros:  40
+Status:     OPTIMAL
+Objective:  hiring_cost = 1021744.599 (MINimum)
+
+   No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 hiring_cost  B    1.02174e+06                             
+     2 init_number_of_experienced_stewardess
+                    NS            60            60             =          1600 
+     3 staff_constraint[2]
+                    NS             0            -0             =         -1000 
+     4 staff_constraint[3]
+                    NS             0            -0             =      -2083.33 
+     5 staff_constraint[4]
+                    NS             0            -0             =      -2534.72 
+     6 staff_constraint[5]
+                    NS             0            -0             =       -2722.8 
+     7 staff_constraint[6]
+                    NS             0            -0             =      -2801.17 
+     8 demand_constraint[1]
+                    B        8055.48          8000               
+     9 demand_constraint[2]
+                    NL          9000          9000                     10.8333 
+    10 demand_constraint[3]
+                    NL          8000          8000                     15.3472 
+    11 demand_constraint[4]
+                    NL         10000         10000                      17.228 
+    12 demand_constraint[5]
+                    NL          9000          9000                     18.0117 
+    13 demand_constraint[6]
+                    NL         10500         10500                     35.3411 
+
+   No. Column name  St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 stewardess[experienced,1]
+                    B             60             0               
+     2 stewardess[hired,1]
+                    B        9.44522             0               
+     3 stewardess[experienced,2]
+                    B        63.4452             0               
+     4 stewardess[hired,2]
+                    B        5.16782             0               
+     5 stewardess[experienced,3]
+                    B        62.2685             0               
+     6 stewardess[hired,3]
+                    B        13.4028             0               
+     7 stewardess[experienced,4]
+                    B        69.4444             0               
+     8 stewardess[hired,4]
+                    B        4.16667             0               
+     9 stewardess[experienced,5]
+                    B        66.6667             0               
+    10 stewardess[hired,5]
+                    B             10             0               
+    11 stewardess[experienced,6]
+                    B             70             0               
+    12 stewardess[hired,6]
+                    NL             0             0                     4534.11 
+
+Karush-Kuhn-Tucker optimality conditions:
+
+KKT.PE: max.abs.err = 1.82e-12 on row 9
+        max.rel.err = 1.02e-16 on row 5
+        High quality
+
+KKT.PB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.DE: max.abs.err = 9.09e-13 on column 6
+        max.rel.err = 1.79e-16 on column 6
+        High quality
+
+KKT.DB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output
+GLPSOL: GLPK LP/MIP Solver, v4.52
+Parameter(s) specified in the command line:
+ --model set1problem2.mod --data set1problem2.data
+Reading model section from set1problem2.mod...
+set1problem2.mod:31: warning: unexpected end of file; missing end statement inserted
+31 lines were read
+Reading data section from set1problem2.data...
+13 lines were read
+Generating hiring_cost...
+Generating init_number_of_experienced_stewardess...
+Generating staff_constraint...
+Generating demand_constraint...
+Model has been successfully generated
+GLPK Simplex Optimizer, v4.52
+13 rows, 12 columns, 40 non-zeros
+Preprocessing...
+9 rows, 10 columns, 22 non-zeros
+Scaling...
+ A: min|aij| =  9.000e-01  max|aij| =  1.500e+02  ratio =  1.667e+02
+GM: min|aij| =  8.801e-01  max|aij| =  1.136e+00  ratio =  1.291e+00
+EQ: min|aij| =  7.746e-01  max|aij| =  1.000e+00  ratio =  1.291e+00
+Constructing initial basis...
+Size of triangular part is 9
+      0: obj =   9.600000000e+04  infeas =  4.427e+02 (0)
+*    10: obj =   1.023187037e+06  infeas =  0.000e+00 (0)
+*    11: obj =   1.021744599e+06  infeas =  0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+Time used:   0.0 secs
+Memory used: 0.1 Mb (136678 bytes)
+Display statement at line 28
+1021744.59876543
+Display statement at line 29
+stewardess[hired,1].val = 9.44521604938272
+stewardess[hired,2].val = 5.16782407407408
+stewardess[hired,3].val = 13.4027777777778
+stewardess[hired,4].val = 4.16666666666667
+stewardess[hired,5].val = 10
+stewardess[hired,6].val = 0
+Display statement at line 30
+8055.47839506173
+9000
+8000
+10000
+9000
+10500
+Model has been successfully processed

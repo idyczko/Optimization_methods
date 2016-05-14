@@ -1,0 +1,14 @@
+/******************************************************
+	Author: Igor Dyczko 200477
+******************************************************/
+
+data;
+param n:=4; #Ilość zadań
+param dur := 5; #Czas wykonania zadań
+
+#Czasy dostępności poszczególnych zadań:
+param ready:= 1 0 2 0 3 50 4 1;
+
+#Priorytety poszczególnych zadań:
+param weight:= 1 20 2 30 3 10 4 100;
+end;
