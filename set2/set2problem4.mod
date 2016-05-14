@@ -33,3 +33,7 @@ s.t. machine_constraint_2{(j,k,l,m) in {1..n,1..n,1..dur,1..dur}: j < k}:
 
 solve;
 display job;
+param r{(i,j) in {1..n,1..dur}} := 1 + sum {(k,l) in {1..n,1..dur}} if (job[k,l] < job[i,j] || job[k,l] == job[i,j]) then 1;
+printf "Kolejność wykonywania zadań:\n";
+printf {k in 1..n*dur, (i,j) in {1..n,1..dur}: k == r[i,j]}  "%s ", i;
+printf "\n";

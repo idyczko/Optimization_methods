@@ -1,7 +1,0 @@
-GLPSOL: GLPK LP/MIP Solver, v4.52
-Parameter(s) specified in the command line:
- --model set2problem4.mod --data set2problem4.data
-Reading model section from set2problem4.mod...
-set2problem4.mod:31: machine_constraint multiply declared
-Context: ...BigM * ( 1 - y [ j , l , k , m ] ) ; s.t. machine_constraint
-MathProg model processing error
