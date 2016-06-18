@@ -1,0 +1,1289 @@
+!SESSION 2016-05-24 23:03:33.488 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-24 23:03:33.488
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-24 23:03:33.675
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-24 23:04:03.579 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-24 23:04:03.579
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-24 23:04:03.641
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-24 23:05:35.728 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-24 23:05:35.744
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-24 23:05:36.978
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-24 23:05:37.166
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-24 23:05:53.405 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-24 23:05:53.420
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-24 23:05:54.155
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-24 23:05:54.248
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 11:33:54.116 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 11:33:54.116
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 11:33:54.288
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 11:34:07.329 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 11:34:07.329
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 11:34:07.568
+!MESSAGE Run Basic Configuration in D:/Workspace/CPLEX/sched_time
+!SESSION 2016-05-26 12:44:17.131 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 12:44:17.131
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 12:44:17.256
+!MESSAGE Run Basic Configuration in D:/Workspace/CPLEX/sched_time
+!SESSION 2016-05-26 12:44:21.804 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 12:44:21.819
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 12:44:22.839
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 12:44:23.089
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 20:03:18.883 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 20:03:18.883
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 20:03:19.139
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 20:04:28.921 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 20:04:28.922
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 20:04:29.112
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 20:35:00.128 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 20:35:00.128
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 20:35:00.337
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 20:35:19.344 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 20:35:19.345
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 20:35:19.541
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 20:44:49.353 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 20:44:49.353
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 20:44:49.539
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 20:45:30.787 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 20:45:30.788
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 20:45:30.966
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 20:57:03.307 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 20:57:03.307
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 20:57:03.463
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 21:05:22.108 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 21:05:22.108
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 21:05:22.311
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:04:51.992 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:04:51.992
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:04:52.273
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:10:57.126 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:10:57.126
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:10:57.236
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-05-26 22:10:57.306
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: ilog.concert.IloException: Wczytanie modelu jest niemo¿liwe.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2016-05-26 22:10:57.307
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Wczytanie modelu jest niemo¿liwe.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-05-26 22:11:33.523 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:11:33.523
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:11:33.749
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:12:35.752 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:12:35.769
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:12:36.573
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:12:36.693
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:13:17.355 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:13:17.372
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:13:18.180
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:13:18.379
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:13:40.519 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:13:40.535
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:13:41.347
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:13:41.547
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:13:55.456 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:13:55.472
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:13:56.278
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:13:56.491
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:16:19.455 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:16:19.471
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:16:20.674
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:16:20.908
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:18:04.765 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:18:04.781
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:18:05.578
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:18:05.703
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:18:35.889 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:18:35.904
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:18:36.701
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:18:36.842
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:20:02.122 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:20:02.138
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:20:02.982
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:20:03.044
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:23:12.504 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:23:12.519
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:23:13.347
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:23:13.426
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:27:14.297 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:27:14.328
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:27:15.203
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:27:15.438
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:27:43.150 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:27:43.165
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:27:44.025
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:27:44.118
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:28:09.824 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:28:09.824
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:28:10.048
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:29:46.377 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:29:46.392
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:29:47.220
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:29:47.392
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:31:31.011 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:31:31.028
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:31:31.875
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:31:32.033
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:31:51.037 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:31:51.056
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:31:51.898
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:31:52.044
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:37:24.171 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:37:24.187
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:37:25.124
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:37:25.343
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:37:59.636 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:37:59.652
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:38:00.511
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:38:00.792
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:38:20.275 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:38:20.291
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:38:21.104
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:38:21.244
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:38:40.877 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:38:40.892
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:38:41.752
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:38:41.845
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:39:09.492 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:39:09.508
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:39:10.336
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:39:10.508
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:39:54.608 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:39:54.624
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:39:55.452
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:39:55.639
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:40:15.009 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:40:15.025
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:40:15.900
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:40:16.041
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:40:27.416 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:40:27.432
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:40:28.275
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:40:28.385
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:40:47.327 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:40:47.342
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:40:48.155
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:40:48.311
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:41:24.874 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:41:24.890
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:41:25.747
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:41:25.919
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:41:37.648 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:41:37.664
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:41:38.507
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:41:38.664
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:42:00.327 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:42:00.327
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:42:00.436
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:43:02.178 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:43:02.178
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:43:02.241
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:43:33.613 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:43:33.628
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:43:34.722
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:43:34.988
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:44:29.248 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:44:29.264
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:44:30.186
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:44:30.264
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:46:07.636 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:46:07.652
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:46:08.527
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:46:08.683
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:49:11.294 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:49:11.310
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:49:12.210
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:49:12.475
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:49:38.928 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:49:38.928
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:49:39.169
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:50:08.754 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:50:08.769
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:50:09.667
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:50:09.729
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:51:32.848 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:51:32.864
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:51:33.707
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:51:33.832
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:53:15.156 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:53:15.171
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:53:16.046
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:53:16.312
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:55:59.806 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:55:59.822
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:56:00.056
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:57:08.278 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:57:08.294
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:57:09.169
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:57:09.419
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:58:11.294 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:58:11.310
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:58:12.232
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:58:12.466
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:58:21.610 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:58:21.610
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:58:21.703
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:58:40.359 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:58:40.375
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:58:41.281
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:58:41.516
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 22:59:28.740 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 22:59:28.756
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 22:59:29.686
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 22:59:29.920
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:00:23.459 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 23:00:23.475
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:00:24.256
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:00:24.475
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:00:55.982 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 23:00:55.998
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:00:56.811
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:00:56.983
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:01:21.393 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 23:01:21.409
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:01:22.206
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:01:22.425
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:02:33.543 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 23:02:33.559
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:02:34.434
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:02:34.574
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:03:22.149 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 23:03:22.165
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:03:22.915
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:03:23.165
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:07:19.214 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 23:07:19.230
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:07:20.011
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:07:20.183
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:16:40.152 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-05-26 23:16:40.168
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:16:41.011
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:16:41.137
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:17:17.311 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:17:17.311
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:17:17.467
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:18:50.122 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:18:50.122
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:18:50.372
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-26 23:19:15.861 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-26 23:19:15.861
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-26 23:19:16.017
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-27 15:31:30.589 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-27 15:31:30.589
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-27 15:31:30.933
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-27 16:18:40.327 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-27 16:18:40.327
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-27 16:18:40.462
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-27 16:19:05.527 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-27 16:19:05.527
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-27 16:19:05.769
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-05-30 13:16:35.850 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-05-30 13:16:35.850
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-30 13:16:36.147
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
