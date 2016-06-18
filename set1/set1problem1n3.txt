@@ -1,0 +1,71 @@
+Problem:    set1problem1
+Rows:       4
+Columns:    3
+Non-zeros:  12
+Status:     OPTIMAL
+Objective:  cost_function = 3.7 (MINimum)
+
+   No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 cost_function
+                    B            3.7                             
+     2 constraint[1]
+                    NS       1.83333       1.83333             =             1 
+     3 constraint[2]
+                    NS       1.08333       1.08333             =             1 
+     4 constraint[3]
+                    NS      0.783333      0.783333             =             1 
+
+   No. Column name  St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 x[1]         B              1             0               
+     2 x[2]         B              1             0               
+     3 x[3]         B              1             0               
+
+Karush-Kuhn-Tucker optimality conditions:
+
+KKT.PE: max.abs.err = 2.22e-16 on row 2
+        max.rel.err = 4.76e-17 on row 2
+        High quality
+
+KKT.PB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.DE: max.abs.err = 1.11e-16 on column 3
+        max.rel.err = 4.33e-17 on column 3
+        High quality
+
+KKT.DB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output
+GLPSOL: GLPK LP/MIP Solver, v4.52
+Parameter(s) specified in the command line:
+ --model set1problem1.mod --data set1problem1.data
+Reading model section from set1problem1.mod...
+set1problem1.mod:21: warning: unexpected end of file; missing end statement inserted
+21 lines were read
+Reading data section from set1problem1.data...
+6 lines were read
+Generating cost_function...
+Generating constraint...
+Model has been successfully generated
+GLPK Simplex Optimizer, v4.52
+4 rows, 3 columns, 12 non-zeros
+Preprocessing...
+3 rows, 3 columns, 9 non-zeros
+Scaling...
+ A: min|aij| =  2.000e-01  max|aij| =  1.000e+00  ratio =  5.000e+00
+Problem data seem to be well scaled
+Constructing initial basis...
+Size of triangular part is 1
+      0: obj =   4.308333333e+00  infeas =  6.083e-01 (2)
+*     2: obj =   3.700000000e+00  infeas =  0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+Time used:   0.0 secs
+Memory used: 0.1 Mb (118357 bytes)
+Display statement at line 21
+1.18167930304806e-14
+Model has been successfully processed

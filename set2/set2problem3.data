@@ -1,0 +1,16 @@
+/******************************************************
+	Author: Igor Dyczko 200477
+******************************************************/
+
+data;
+param n:=3; #Ilość maszyn
+param m:=5; #Ilość zadań
+
+#Czasy wykonania poszczególnych zadań na poszczególnych maszynach:
+param dur:    1       2       3:=
+	1     3       3       2
+	2     9       3       8
+	3     9       8       5
+	4     4       8       4
+	5     6      10      3;
+end;

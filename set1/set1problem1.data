@@ -1,0 +1,6 @@
+/******************************************************
+	Author: Igor Dyczko 200477
+******************************************************/
+data;
+param problem_size:=8; #Rozmiar problemu - ilosc wierszy i kolumn macierzy Hilberta.
+end;

@@ -1,0 +1,129 @@
+Problem:    set1problem2
+Rows:       13
+Columns:    12 (12 integer, 0 binary)
+Non-zeros:  40
+Status:     INTEGER OPTIMAL
+Objective:  hiring_cost = 1029000 (MINimum)
+
+   No.   Row name        Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 hiring_cost         1.029e+06                             
+     2 init_number_of_experienced_stewardess
+                                  60            60             = 
+     3 staff_constraint[2]
+                                   0                          -0 
+     4 staff_constraint[3]
+                                -0.6                          -0 
+     5 staff_constraint[4]
+                                -0.7                          -0 
+     6 staff_constraint[5]
+                                   0                          -0 
+     7 staff_constraint[6]
+                                -0.3                          -0 
+     8 demand_constraint[1]
+                                8000          8000               
+     9 demand_constraint[2]
+                                9000          9000               
+    10 demand_constraint[3]
+                                8050          8000               
+    11 demand_constraint[4]
+                               10100         10000               
+    12 demand_constraint[5]
+                                9050          9000               
+    13 demand_constraint[6]
+                               10500         10500               
+
+   No. Column name       Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 stewardess[experienced,1]
+                    *             60             0               
+     2 stewardess[hired,1]
+                    *             10             0               
+     3 stewardess[experienced,2]
+                    *             64             0               
+     4 stewardess[hired,2]
+                    *              6             0               
+     5 stewardess[experienced,3]
+                    *             63             0               
+     6 stewardess[hired,3]
+                    *             14             0               
+     7 stewardess[experienced,4]
+                    *             70             0               
+     8 stewardess[hired,4]
+                    *              4             0               
+     9 stewardess[experienced,5]
+                    *             67             0               
+    10 stewardess[hired,5]
+                    *             10             0               
+    11 stewardess[experienced,6]
+                    *             70             0               
+    12 stewardess[hired,6]
+                    *              0             0               
+
+Integer feasibility conditions:
+
+KKT.PE: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.PB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output
+GLPSOL: GLPK LP/MIP Solver, v4.52
+Parameter(s) specified in the command line:
+ --model set1problem2.mod --data set1problem2.data
+Reading model section from set1problem2.mod...
+set1problem2.mod:31: warning: unexpected end of file; missing end statement inserted
+31 lines were read
+Reading data section from set1problem2.data...
+13 lines were read
+Generating hiring_cost...
+Generating init_number_of_experienced_stewardess...
+Generating staff_constraint...
+Generating demand_constraint...
+Model has been successfully generated
+GLPK Integer Optimizer, v4.52
+13 rows, 12 columns, 40 non-zeros
+12 integer variables, none of which are binary
+Preprocessing...
+9 rows, 9 columns, 20 non-zeros
+9 integer variables, none of which are binary
+Scaling...
+ A: min|aij| =  9.000e-01  max|aij| =  1.500e+02  ratio =  1.667e+02
+GM: min|aij| =  8.801e-01  max|aij| =  1.136e+00  ratio =  1.291e+00
+EQ: min|aij| =  7.746e-01  max|aij| =  1.000e+00  ratio =  1.291e+00
+2N: min|aij| =  7.812e-01  max|aij| =  1.172e+00  ratio =  1.500e+00
+Constructing initial basis...
+Size of triangular part is 9
+Solving LP relaxation...
+GLPK Simplex Optimizer, v4.52
+9 rows, 9 columns, 20 non-zeros
+      0: obj =   1.017500000e+06  infeas =  2.700e+00 (0)
+*     6: obj =   1.023518519e+06  infeas =  0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+Integer optimization begins...
++     6: mip =     not found yet >=              -inf        (1; 0)
+Solution found by heuristic: 1029000
++    12: mip =   1.029000000e+06 >=     tree is empty   0.0% (0; 1)
+INTEGER OPTIMAL SOLUTION FOUND
+Time used:   0.0 secs
+Memory used: 0.1 Mb (146910 bytes)
+Display statement at line 28
+1029000
+Display statement at line 29
+stewardess[hired,1].val = 10
+stewardess[hired,2].val = 6
+stewardess[hired,3].val = 14
+stewardess[hired,4].val = 4
+stewardess[hired,5].val = 10
+stewardess[hired,6].val = 0
+Display statement at line 30
+8000
+9000
+8050
+10100
+9050
+10500
+Model has been successfully processed

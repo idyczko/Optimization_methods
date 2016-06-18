@@ -1,0 +1,88 @@
+Problem:    set1problem1
+Rows:       9
+Columns:    8
+Non-zeros:  72
+Status:     OPTIMAL
+Objective:  cost_function = 10.60594961 (MINimum)
+
+   No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 cost_function
+                    B        10.6059                             
+     2 constraint[1]
+                    NS       2.71786       2.71786             =      0.999912 
+     3 constraint[2]
+                    NS       1.82897       1.82897             =       1.00487 
+     4 constraint[3]
+                    NS       1.42897       1.42897             =      0.935065 
+     5 constraint[4]
+                    NS       1.18654       1.18654             =       1.35714 
+     6 constraint[5]
+                    NS       1.01988       1.01988             =      0.025974 
+     7 constraint[6]
+                    NS        0.8968        0.8968             =       2.39286 
+     8 constraint[7]
+                    B       0.801562      0.801562             = 
+     9 constraint[8]
+                    NS      0.725372      0.725372             =       1.28426 
+
+   No. Column name  St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 x[1]         B       0.999912             0               
+     2 x[2]         B        1.00487             0               
+     3 x[3]         B       0.935065             0               
+     4 x[4]         B        1.35714             0               
+     5 x[5]         B       0.025974             0               
+     6 x[6]         B        2.39286             0               
+     7 x[7]         NL             0             0                       < eps
+     8 x[8]         B        1.28426             0               
+
+Karush-Kuhn-Tucker optimality conditions:
+
+KKT.PE: max.abs.err = 4.44e-16 on row 2
+        max.rel.err = 6.90e-17 on row 2
+        High quality
+
+KKT.PB: max.abs.err = 4.60e-10 on row 8
+        max.rel.err = 2.55e-10 on row 8
+        High quality
+
+KKT.DE: max.abs.err = 4.44e-16 on column 1
+        max.rel.err = 7.30e-17 on column 5
+        High quality
+
+KKT.DB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output
+GLPSOL: GLPK LP/MIP Solver, v4.52
+Parameter(s) specified in the command line:
+ --model set1problem1.mod --data set1problem1.data
+Reading model section from set1problem1.mod...
+set1problem1.mod:21: warning: unexpected end of file; missing end statement inserted
+21 lines were read
+Reading data section from set1problem1.data...
+6 lines were read
+Generating cost_function...
+Generating constraint...
+Model has been successfully generated
+GLPK Simplex Optimizer, v4.52
+9 rows, 8 columns, 72 non-zeros
+Preprocessing...
+8 rows, 8 columns, 64 non-zeros
+Scaling...
+ A: min|aij| =  6.667e-02  max|aij| =  1.000e+00  ratio =  1.500e+01
+GM: min|aij| =  6.958e-01  max|aij| =  1.437e+00  ratio =  2.066e+00
+EQ: min|aij| =  4.841e-01  max|aij| =  1.000e+00  ratio =  2.066e+00
+Constructing initial basis...
+Size of triangular part is 1
+      0: obj =   9.467541877e+00  infeas =  7.406e+00 (7)
+*     6: obj =   1.060594961e+01  infeas =  2.348e-09 (1)
+*     7: obj =   1.060594961e+01  infeas =  3.270e-09 (1)
+OPTIMAL LP SOLUTION FOUND
+Time used:   0.0 secs
+Memory used: 0.1 Mb (130309 bytes)
+Display statement at line 21
+0.716010718216722
+Model has been successfully processed

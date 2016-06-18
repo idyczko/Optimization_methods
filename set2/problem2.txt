@@ -1,0 +1,79 @@
+GLPSOL: GLPK LP/MIP Solver, v4.52
+Parameter(s) specified in the command line:
+ --model set2problem2.mod --data set2problem2.data
+Reading model section from set2problem2.mod...
+set2problem2.mod:29: warning: unexpected end of file; missing end statement inserted
+29 lines were read
+Reading data section from set2problem2.data...
+28 lines were read
+Generating computing_time...
+Generating memory_constraint...
+Generating cover_every_function...
+Model has been successfully generated
+GLPK Integer Optimizer, v4.52
+5 rows, 35 columns, 85 non-zeros
+35 integer variables, all of which are binary
+Preprocessing...
+4 rows, 34 columns, 48 non-zeros
+34 integer variables, all of which are binary
+Scaling...
+ A: min|aij| =  1.000e+00  max|aij| =  1.340e+02  ratio =  1.340e+02
+GM: min|aij| =  4.931e-01  max|aij| =  2.028e+00  ratio =  4.112e+00
+EQ: min|aij| =  2.466e-01  max|aij| =  1.000e+00  ratio =  4.056e+00
+2N: min|aij| =  1.250e-01  max|aij| =  1.000e+00  ratio =  8.000e+00
+Constructing initial basis...
+Size of triangular part is 4
+Solving LP relaxation...
+GLPK Simplex Optimizer, v4.52
+4 rows, 34 columns, 48 non-zeros
+*     0: obj =   4.600000000e+01  infeas =  0.000e+00 (0)
+*     2: obj =   7.000000000e+00  infeas =  0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+Integer optimization begins...
++     2: mip =     not found yet >=              -inf        (1; 0)
++     2: >>>>>   7.000000000e+00 >=   7.000000000e+00   0.0% (1; 0)
++     2: mip =   7.000000000e+00 >=     tree is empty   0.0% (0; 1)
+INTEGER OPTIMAL SOLUTION FOUND
+Time used:   0.0 secs
+Memory used: 0.2 Mb (166027 bytes)
+Display statement at line 27
+P[1,1].val = 0
+P[1,2].val = 0
+P[1,3].val = 1
+P[1,4].val = 0
+P[1,5].val = 1
+P[1,6].val = 0
+P[1,7].val = 0
+P[2,1].val = 0
+P[2,2].val = 0
+P[2,3].val = 0
+P[2,4].val = 0
+P[2,5].val = 0
+P[2,6].val = 0
+P[2,7].val = 0
+P[3,1].val = 0
+P[3,2].val = 0
+P[3,3].val = 0
+P[3,4].val = 0
+P[3,5].val = 0
+P[3,6].val = 0
+P[3,7].val = 0
+P[4,1].val = 0
+P[4,2].val = 0
+P[4,3].val = 0
+P[4,4].val = 0
+P[4,5].val = 0
+P[4,6].val = 0
+P[4,7].val = 0
+P[5,1].val = 1
+P[5,2].val = 0
+P[5,3].val = 0
+P[5,4].val = 0
+P[5,5].val = 0
+P[5,6].val = 0
+P[5,7].val = 0
+Display statement at line 28
+computing_time.val = 7
+Display statement at line 29
+memory_constraint.val = 76
+Model has been successfully processed
