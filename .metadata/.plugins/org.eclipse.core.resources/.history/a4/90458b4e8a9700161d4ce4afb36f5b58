@@ -1,0 +1,50 @@
+/*********************************************
+ * OPL 12.6.1.0 Model
+ * Author: Igor
+ * Creation Date: 21-10-2016 at 13:04:23
+ *********************************************/
+//Iloœæ maszyn: 
+int p = ...;
+//Iloœæ czynnoœci
+int n = ...;
+//Zbiór czynnoœci
+range Z = 1..n;
+//Czasy wykonania poszczególnych zadañ
+int t[Z] = ...;
+//Najwczeœniejszy moment rozpoczêcia zadania
+int r[Z] = ...;
+//NajpóŸniejszy moment wykonania zadania:
+int d[Z] = ...;
+//Ograniczenia dotycz¹ce poprzedzania poszczególnych zadañ
+//{int} c[Z]=...;
+
+//Zmienna decyzyjna - interwa³y czasowe poszczególnych zadañ
+dvar int starttimes[Z];
+//Wyra¿enie oznaczaj¹ce czas dostarczenia ostatniego zadania
+dexpr int tardiness = sum (i in Z) (starttimes[i]+t[i] - d[i]);
+
+//Funkcja celu - minimalizacja czasu dostarczenia ostatniego zadania
+minimize tardiness;
+
+//Ograniczenia:
+subject to {
+//Ograniczenia wymuszaj¹ce poprzedzanie zadañ
+  forall(i in Z, j in c[i])
+      endBeforeStart(task[j],task[i]);
+//Ograniczenia dotycz¹ce zarz¹dzania zasobami
+  forall(i in R)
+		sum (j in Z) pulse(task[j],r[j][i])<=N[i];
+}
+
+//Skrypt prezentuj¹cy rozwi¹zanie w postaci diagramu Gantta
+execute Gantt{
+   writeln();
+   writeln("Gantt chart:");
+   for(var i in task){  
+   writeln(); 
+	for(var j=0; j<task[i].start; j++)
+   		write(" ");
+   	for(var j=0; j<task[i].size; j++)
+   		write(i);
+}
+};

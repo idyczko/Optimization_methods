@@ -1,0 +1,17 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: Igor
+ * Creation Date: 21-10-2016 at 13:04:40
+ *********************************************/
+//Iloœæ maszyn: 
+p = 1;
+//Iloœæ czynnoœci
+n = 8;
+//Czasy wykonania poszczególnych zadañ
+t = [5,7,5,6,2,7,1,10];
+//Najwczeœniejszy moment rozpoczêcia zadania:
+r = [99,1,11,4,13,7,7,17];
+//NajpóŸniejszy moment wykonania zadania:
+d = [100,10,100,17,50,50,50,60];
+//Ograniczenia dotycz¹ce poprzedzania poszczególnych zadañ
+//c =[{},{1},{1},{1},{2},{3,4},{4},{5,6,7}];

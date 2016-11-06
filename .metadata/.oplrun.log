@@ -1287,3 +1287,955 @@ Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.met
 
 !ENTRY ilog.odms.ide.opllang.remote 1 0 2016-05-30 13:16:36.147
 !MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-10-21 13:09:06.836 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:09:06.836
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:09:06.985
+!MESSAGE Run Set3Problem1 in D:/Workspace/CPLEX/Set3Problem1
+!SESSION 2016-10-21 13:09:28.659 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:09:28.659
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:09:28.819
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:09:28.971
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:10:47.968 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:10:47.968
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:10:48.148
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:10:48.308
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:10:54.550 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:10:54.550
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:10:54.732
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:10:54.936
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:11:25.412 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:11:25.412
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:11:25.548
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:11:25.688
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:18:16.754 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:18:16.754
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:18:16.894
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:18:16.969
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: ilog.concert.IloException: Wczytanie modelu jest niemo¿liwe.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:18:16.973
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Wczytanie modelu jest niemo¿liwe.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:18:34.734 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:18:34.734
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:18:34.874
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:18:35.022
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:19:26.798 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:19:26.798
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:19:26.939
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:19:27.077
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:23:04.951 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:23:04.951
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:23:05.076
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:23:05.233
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:23:24.826 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:23:24.826
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:23:25.108
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:23:25.279
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:26:16.843 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:26:16.843
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:26:16.984
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:26:17.187
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:26:38.251 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:26:38.251
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:26:38.507
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:26:38.620
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: ilog.concert.IloException: Wczytanie modelu jest niemo¿liwe.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:26:38.624
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Wczytanie modelu jest niemo¿liwe.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:26:54.462 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:26:54.462
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:26:54.603
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:26:54.776
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in 'q1' is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:28:21.271 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:28:21.271
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:28:21.375
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-21 13:28:29.602 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-10-21 13:28:29.619
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:28:30.409
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:28:30.673
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-21 13:28:47.971 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-10-21 13:28:47.987
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:28:48.799
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:28:48.911
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:28:49.079
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in objective is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:29:14.308 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:29:14.308
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:29:14.574
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:29:14.726
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in objective is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:29:22.629 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:29:22.629
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:29:22.697
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:29:22.829
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in objective is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:29:55.858 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:29:55.858
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:29:55.950
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:29:56.102
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in objective is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:30:13.766 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:30:13.766
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:30:14.042
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-21 13:32:02.965 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-10-21 13:32:02.981
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:32:03.837
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:32:04.106
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-21 13:32:55.664 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-10-21 13:32:55.680
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:32:56.492
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:32:56.564
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:32:56.720
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in objective is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:33:22.881 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:33:22.881
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:33:22.961
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:33:23.093
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in objective is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-21 13:41:40.775 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:41:40.779
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-21 13:41:41.045
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2016-10-21 13:41:41.169
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: CPLEX Error  5002: Q in objective is not positive semi-definite.
+
+	at ilog.cplex.cppimpl.cplex_wrapJNI.IloCplex_solve__SWIG_0(Native Method)
+	at ilog.cplex.cppimpl.IloCplex.solve(IloCplex.java:1142)
+	at ilog.cplex.IloCplex.solve(IloCplex.java:11798)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:242)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1589)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2016-10-23 20:51:22.877 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 20:51:22.877
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 20:51:23.042
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 20:51:48.229 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 20:51:48.230
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 20:51:48.410
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 20:52:43.811 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 20:52:43.811
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 20:52:43.995
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 20:59:59.266 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 20:59:59.266
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 20:59:59.377
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:04:30.323 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:04:30.324
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:04:30.484
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:05:01.528 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:05:01.528
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:05:01.746
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:08:46.330 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:08:46.330
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:08:46.518
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:14:06.433 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:14:06.433
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:14:06.589
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:15:09.081 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:15:09.081
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:15:09.234
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:15:55.737 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:15:55.737
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:15:56.002
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:16:07.690 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:16:07.690
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:16:07.927
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:16:40.414 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:16:40.414
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:16:40.586
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:17:34.579 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:17:34.595
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:17:34.720
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:28:52.714 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:28:52.714
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:28:52.875
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:44:18.800 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:44:18.801
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:44:18.981
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:45:19.405 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:45:19.405
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:45:19.584
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:48:16.629 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:48:16.629
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:48:16.905
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1
+!SESSION 2016-10-23 21:55:43.218 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -clean -nl pl_PL -configuration D:\Workspace\CPLEX\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2016-10-23 21:55:43.234
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: D:\Workspace\CPLEX\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:55:44.099
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2016-10-23 21:55:44.191
+!MESSAGE Run init_config in D:/Workspace/CPLEX/master_thesis_1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="true" name="init_config">
+			<ref name="master_thesis_data.dat" type="data">
+			</ref>
+			<ref name="mt_minimize_maximal_tardiness.mod" type="model">
+			</ref>
+			<ref name="mt_minimize_maximal_tardiness.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

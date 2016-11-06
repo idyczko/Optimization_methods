@@ -1013,3 +1013,290 @@ org.osgi.framework.BundleException: The bundle "org.eclipse.equinox.ds_1.4.1.v20
 
 !ENTRY ilog.odms.ide.opllang 1 0 2016-05-30 19:41:32.543
 !MESSAGE concert_wrap.IloEndMT
+!SESSION 2016-10-19 23:24:38.568 -----------------------------------------------
+eclipse.buildId=Build 0
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-10-19 23:24:40.540
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: The bundle "org.eclipse.equinox.ds_1.4.1.v20120926-201320 [4]" could not be resolved. Reason: Missing Constraint: Import-Package: org.eclipse.equinox.internal.util.event; version="1.0.0"
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getResolverError(AbstractBundle.java:1332)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getResolutionFailureException(AbstractBundle.java:1316)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:323)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.resume(AbstractBundle.java:390)
+	at org.eclipse.osgi.framework.internal.core.Framework.resumeBundle(Framework.java:1176)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.resumeBundles(StartLevelManager.java:559)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.resumeBundles(StartLevelManager.java:544)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.incFWSL(StartLevelManager.java:457)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:243)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.dispatchEvent(StartLevelManager.java:438)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.dispatchEvent(StartLevelManager.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-19 23:24:52.677
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.chart.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-19 23:24:52.677
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.diagrammer.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-19 23:24:52.682
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.framework.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-19 23:24:52.682
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.gantt.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-19 23:26:32.842
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error1 in: ilog.odms.ide.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-19 23:26:32.843
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error2 in: ilog.odms.ide.ui.messages
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-19 23:26:35.804
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.core 1 0 2016-10-19 23:26:42.096
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-19 23:32:53.222
+!MESSAGE concert_wrap.IloEndMT
+!SESSION 2016-10-21 13:00:35.727 -----------------------------------------------
+eclipse.buildId=Build 0
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-10-21 13:00:37.183
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: The bundle "org.eclipse.equinox.ds_1.4.1.v20120926-201320 [4]" could not be resolved. Reason: Missing Constraint: Import-Package: org.eclipse.equinox.internal.util.event; version="1.0.0"
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getResolverError(AbstractBundle.java:1332)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getResolutionFailureException(AbstractBundle.java:1316)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:323)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.resume(AbstractBundle.java:390)
+	at org.eclipse.osgi.framework.internal.core.Framework.resumeBundle(Framework.java:1176)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.resumeBundles(StartLevelManager.java:559)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.resumeBundles(StartLevelManager.java:544)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.incFWSL(StartLevelManager.java:457)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:243)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.dispatchEvent(StartLevelManager.java:438)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.dispatchEvent(StartLevelManager.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-21 13:00:46.894
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.chart.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-21 13:00:46.894
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.diagrammer.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-21 13:00:46.894
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.framework.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-21 13:00:46.894
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.gantt.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-21 13:01:06.426
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error1 in: ilog.odms.ide.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-21 13:01:06.426
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error2 in: ilog.odms.ide.ui.messages
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 13:01:14.545
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.core 1 0 2016-10-21 13:01:32.167
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY org.eclipse.jface 4 0 2016-10-21 13:10:26.079
+!MESSAGE Komenda "ilog.odms.ide.ui.references" jest niezdefiniowana
+!STACK 0
+java.lang.Exception
+	at org.eclipse.jface.action.ExternalActionManager$CommandCallback.isActive(ExternalActionManager.java:370)
+	at org.eclipse.jface.action.ActionContributionItem.isCommandActive(ActionContributionItem.java:647)
+	at org.eclipse.jface.action.ActionContributionItem.isVisible(ActionContributionItem.java:703)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.reconcileManagerToModel(MenuManagerRenderer.java:891)
+	at org.eclipse.ui.internal.PopupMenuExtender.addMenuContributions(PopupMenuExtender.java:415)
+	at org.eclipse.ui.internal.PopupMenuExtender.menuAboutToShow(PopupMenuExtender.java:389)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:343)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:475)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:470)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4881)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4557)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2069)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4976)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4210)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3752)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1053)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:942)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at ilog.odms.ide.rcp.IloApplication.start(IloApplication.java:120)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:95)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:56)
+	at java.lang.reflect.Method.invoke(Method.java:620)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-21 14:31:41.539
+!MESSAGE concert_wrap.IloEndMT
+!SESSION 2016-10-23 19:12:07.120 -----------------------------------------------
+eclipse.buildId=Build 0
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20141013_217026 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141013_1240_B217026
+JIT  - r11_20141003_74578
+GC   - R26_Java726_SR8_20141013_1240_B217026_CMPRSS
+J9CL - 20141013_217026
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-10-23 19:12:08.879
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: The bundle "org.eclipse.equinox.ds_1.4.1.v20120926-201320 [4]" could not be resolved. Reason: Missing Constraint: Import-Package: org.eclipse.equinox.internal.util.event; version="1.0.0"
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getResolverError(AbstractBundle.java:1332)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.getResolutionFailureException(AbstractBundle.java:1316)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:323)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.resume(AbstractBundle.java:390)
+	at org.eclipse.osgi.framework.internal.core.Framework.resumeBundle(Framework.java:1176)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.resumeBundles(StartLevelManager.java:559)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.resumeBundles(StartLevelManager.java:544)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.incFWSL(StartLevelManager.java:457)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:243)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.dispatchEvent(StartLevelManager.java:438)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.dispatchEvent(StartLevelManager.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-23 19:12:15.109
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.chart.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-23 19:12:15.109
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.diagrammer.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-23 19:12:15.109
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.framework.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-10-23 19:12:15.113
+!MESSAGE Rozszerzenia i punkty rozszerzeń z pakunku "ilog.views.eclipse.gantt.runtime" są ignorowane. Pakunek nie jest oznaczony jako pojedynczy. 
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-23 19:14:34.386
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error1 in: ilog.odms.ide.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-23 19:14:34.386
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error2 in: ilog.odms.ide.ui.messages
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 19:14:37.730
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.core 1 0 2016-10-23 19:14:45.377
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY org.eclipse.ui 4 0 2016-10-23 20:44:08.743
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException: ilog.odms.ide.opllang.ast.checker.types.OplBooleanType incompatible with ilog.odms.ide.opllang.ast.checker.types.OplArrayType
+	at ilog.odms.ide.opllang.ast.checker.ExpressionChecker.visit(ExpressionChecker.java:459)
+	at ilog.odms.ide.opllang.ast.node.expression.ArraySlotExpression.accept0(ArraySlotExpression.java:88)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.checker.ExpressionChecker.visit(ExpressionChecker.java:104)
+	at ilog.odms.ide.opllang.ast.node.expression.BinaryExpression.accept0(BinaryExpression.java:67)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.node.OplNode.acceptChild(OplNode.java:1249)
+	at ilog.odms.ide.opllang.ast.node.expression.ParenthesisExpression.accept0(ParenthesisExpression.java:46)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.checker.ExpressionChecker.visit(ExpressionChecker.java:104)
+	at ilog.odms.ide.opllang.ast.node.expression.BinaryExpression.accept0(BinaryExpression.java:67)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.checker.ExpressionChecker.visit(ExpressionChecker.java:104)
+	at ilog.odms.ide.opllang.ast.node.expression.BinaryExpression.accept0(BinaryExpression.java:67)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.checker.ExpressionChecker.visit(ExpressionChecker.java:104)
+	at ilog.odms.ide.opllang.ast.node.expression.BinaryExpression.accept0(BinaryExpression.java:67)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.checker.ConstraintChecker.visit(ConstraintChecker.java:152)
+	at ilog.odms.ide.opllang.ast.node.constraint.SimpleConstraint.accept0(SimpleConstraint.java:52)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.checker.ConstraintChecker.acceptIfNotNull(ConstraintChecker.java:158)
+	at ilog.odms.ide.opllang.ast.checker.ConstraintChecker.visit(ConstraintChecker.java:130)
+	at ilog.odms.ide.opllang.ast.node.constraint.ForAllConstraint.accept0(ForAllConstraint.java:58)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.node.OplNode.acceptChild(OplNode.java:1249)
+	at ilog.odms.ide.opllang.ast.node.constraint.ConstraintList.accept0(ConstraintList.java:53)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.checker.Resolver.visit(Resolver.java:84)
+	at ilog.odms.ide.opllang.ast.node.constraint.ConstraintList.accept0(ConstraintList.java:49)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.node.OplNode.acceptChild(OplNode.java:1249)
+	at ilog.odms.ide.opllang.ast.node.ConstraintsBlock.accept0(ConstraintsBlock.java:46)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.checker.Resolver.visit(Resolver.java:59)
+	at ilog.odms.ide.opllang.ast.node.CompilationUnit.accept0(CompilationUnit.java:52)
+	at ilog.odms.ide.opllang.ast.node.OplNode.accept(OplNode.java:1198)
+	at ilog.odms.ide.opllang.ast.ASTParser.internalTypeCheck(ASTParser.java:315)
+	at ilog.odms.ide.opllang.ast.ASTParser.parse(ASTParser.java:199)
+	at ilog.odms.ide.opllang.ast.ASTParser.parse(ASTParser.java:191)
+	at ilog.odms.ide.internal.core.IloModelFileImpl.updateAST(IloModelFileImpl.java:106)
+	at ilog.odms.ide.ui.editors.model.IloModelEditor.initAST(IloModelEditor.java:179)
+	at ilog.odms.ide.ui.editors.model.IloModelEditor$2.run(IloModelEditor.java:213)
+	at org.eclipse.swt.widgets.Display.runTimer(Display.java:4270)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3357)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2546)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1053)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:942)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at ilog.odms.ide.rcp.IloApplication.start(IloApplication.java:120)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:95)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:56)
+	at java.lang.reflect.Method.invoke(Method.java:620)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+
+!ENTRY ilog.odms.ide.opllang 1 0 2016-10-23 21:59:00.613
+!MESSAGE concert_wrap.IloEndMT

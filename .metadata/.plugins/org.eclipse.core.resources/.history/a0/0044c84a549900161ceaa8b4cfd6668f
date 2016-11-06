@@ -1,0 +1,42 @@
+/*********************************************
+ * OPL 12.6.1.0 Model
+ * Author: Igor
+ * Creation Date: 21-10-2016 at 13:04:23
+ *********************************************/
+//Iloœæ maszyn: 
+int p = ...;
+//Iloœæ czynnoœci
+int n = ...;
+//Zbiór czynnoœci
+range Z = 1..n;
+//Czasy wykonania poszczególnych zadañ
+int t[Z] = ...;
+//Najwczeœniejszy moment rozpoczêcia zadania
+int r[Z] = ...;
+//NajpóŸniejszy moment wykonania zadania:
+int d[Z] = ...;
+//Ograniczenia dotycz¹ce poprzedzania poszczególnych zadañ
+//{int} c[Z]=...;
+//Du¿a sta³a do zapewnienia nienak³adania siê zadañ
+int BigM = (max(i in Z) r[i]) + (sum(i in Z) t[i]);
+//Zmienna decyzyjna - czasy rozpoczêcia zadañ
+dvar int+ starttimes[Z];
+//
+dvar boolean y[Z][Z];
+
+//Wyra¿enie oznaczaj¹ce sumaryczne opóŸnienie wszystkich zadañ
+dexpr int tardiness = (sum (i in Z) (starttimes[i] + t[i] - d[i]));
+dexpr int earliness = (sum (i in Z) (d[i] - starttimes[i] - t[i]));
+
+//Funkcja celu - minimalizacja czasu dostarczenia ostatniego zadania
+minimize tardiness;
+minimize earliness;
+
+//Ograniczenia:
+subject to {
+//Ograniczenia wymuszaj¹ce poprzedzanie zadañ
+	forall(i in Z, j in Z: i<j)
+    	starttimes[i] + t[i] <= starttimes[j]+BigM*(1-y[i,j]);
+	forall(i in Z, j in Z: i<j)
+    	starttimes[j] + t[j] <= starttimes[i]+BigM*(y[i,j]);
+}
